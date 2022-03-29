@@ -8,7 +8,7 @@ export default defineConfig({
 
   // Rendering configs
   width: 800,
-  formats: ['json', 'svg', 'png'],
+  formats: ['svg', 'png'],
   tiers: [
     {
       title: 'Backers',
