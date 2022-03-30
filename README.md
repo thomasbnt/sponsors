@@ -4,6 +4,12 @@ Thanks to all sponsors on my GitHub !
 
 ![Sponsors](./sponsors.svg)
 
+Some of my projects show this list directly on the README, theses projects are : 
+
+- [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization)
+- [bord-Pi](https://github.com/thomasbnt/Bord-Pi)
+
+This list can be updated at any time.
 
 ____
 
