@@ -15,10 +15,10 @@ export default defineConfig({
       monthlyDollars: -1,
       preset: presets.xs,
     },
-    /* {
+    {
       title: 'Backers',
       preset: presets.base,
-    }, */
+    },
     {
       title: 'Bronze Sponsors',
       monthlyDollars: 2,
