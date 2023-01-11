@@ -10,18 +10,18 @@ export default defineConfig({
   width: 800,
   formats: ['svg', 'png'],
   tiers: [
-    /*{
+    {
       title: 'Past Sponsors',
       monthlyDollars: -1,
       preset: presets.xs,
-    },*/
-    {
+    },
+    /* {
       title: 'Backers',
       preset: presets.base,
-    },
+    }, */
     {
-      title: 'Sponsors',
-      monthlyDollars: 1,
+      title: 'Bronze Sponsors',
+      monthlyDollars: 2,
       preset: presets.medium,
     },
     {
