@@ -10,6 +10,7 @@ Some of my projects show this list directly on the README, theses projects are :
 - [`Bord-Pi`](https://github.com/thomasbnt/Bord-Pi)
 - [`Whois`](https://github.com/Mist3r-Robot/Whois)
 - [`Classic Discord Webhook`](https://github.com/Mist3r-Robot/classic-discord-webhook)
+- [`vuejs3-sass-lucide-starter-kit`](https://github.com/thomasbnt/vuejs3-sass-lucide-starter-kit)
 
 This list can be updated at any time.
 
