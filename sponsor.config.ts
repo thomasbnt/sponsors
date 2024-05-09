@@ -5,6 +5,9 @@ export default defineConfig({
   github: {
     login: 'thomasbnt',
   },
+  polar: {
+
+  },
 
   // Rendering configs
   width: 800,
