@@ -22,7 +22,7 @@ jobs:
           node-version: 22
 
       - name: Install dependencies
-        run: pnpm install --allow-build=sharp
+        run: pnpm install
 
       - name: Update sponsors
         run: pnpm run build
